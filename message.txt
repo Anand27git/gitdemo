@@ -1,2 +1,5 @@
+
 hi this is not a git file
-hi perform pull cmd for file
+
+hi this is git file only
+
