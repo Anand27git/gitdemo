@@ -1,1 +1,2 @@
 hi this is git file
+hi perform pull cmd for file
