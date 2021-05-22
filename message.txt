@@ -1,2 +1,2 @@
-hi this is git file
+hi this is not a git file
 hi perform pull cmd for file
