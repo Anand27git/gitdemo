@@ -1,7 +1,7 @@
 
 hi this is  not git file
 
-hi this is git file only
+hi this is not at all git file
 
 hi  i am adding new line
 
