@@ -1,8 +1,8 @@
 
 hi this is  not git file
 
-hi this is git file 2.0
 
+hi this is git file only
 hi  i am adding new line
 
 
