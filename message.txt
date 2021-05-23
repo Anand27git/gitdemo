@@ -9,4 +9,4 @@ hi  i am adding new line
 add another line
  add new line
  
- hi it is new git file
+ hi it is not new git file
